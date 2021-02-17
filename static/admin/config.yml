@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: michaelccrawford/gatsby-netlify
 
 media_folder: static/assets
 public_folder: /assets
